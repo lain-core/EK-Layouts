@@ -1,0 +1,52 @@
+Planck 40% (Default)
+
+R1, 0xF, "Tab", "Tab", 1
+R1, 0x10, "Q", "Q", 1
+R1, 0x11, "W", "W", 1
+R1, 0x12, "E", "E", 1
+R1, 0x13, "R", "R", 1
+R1, 0x14, "T", "T", 1
+R1, 0x15, "Y", "Y", 1
+R1, 0x16, "U", "U", 1
+R1, 0x17, "I", "I", 1
+R1, 0x18, "O", "O", 1
+R1, 0x19, "P", "P", 1
+R1, 0xE, "Bcksp", "Backspace", 1
+
+R2, 0x1, "Esc", "Esc", 1
+R2, 0x1E, "A", "A", 1
+R2, 0x1F, "S", "S", 1
+R2, 0x20, "D", "D", 1
+R2, 0x21, "F", "F", 1
+R2, 0x22, "G", "G", 1
+R2, 0x23, "H", "H", 1
+R2, 0x24, "J", "J", 1
+R2, 0x25, "K", "K", 1
+R2, 0x26, "L", "L", 1
+R2, 0x27, "; :", ";", 1
+R2, 0x28, "' """, "'", 1
+
+R3, 0x2A, "Shift", "LShift", 1
+R3, 0x2C, "Z", "Z", 1
+R3, 0x2D, "X", "X", 1
+R3, 0x2E, "C", "C", 1
+R3, 0x2F, "V", "V", 1
+R3, 0x30, "B", "B", 1
+R3, 0x31, "N", "N", 1
+R3, 0x32, "M", "M", 1
+R3, 0x33, ", <", ",", 1
+R3, 0x34, ". >", ".", 1
+R3, 0x35, "/ ?", "/", 1
+R3, 0x1C, "Enter", "Enter", 1
+
+R4, BL, "", "", 1 //placeholder for backlight key
+R4, 0x1D, "Ctrl", "LCtrl", 1
+R4, 0x38, "Alt", "LAlt", 1
+R4, 0xE05B, "Cmd", "LWin", 1
+R4, BL, "", "", 1 //placeholder for layer down key
+R4,0x39, "Space", "Space", 2
+R4, BL, "", "", 1 //placeholder for layer up key
+R4,0xE04B, "Left", "Left", 1
+R4,0xE050, "Down", "Down", 1
+R4, 0xE048, "Up", "Up", 1
+R4,0xE04D, "Right", "Right", 1
