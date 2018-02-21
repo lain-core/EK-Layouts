@@ -1,7 +1,7 @@
 # EK Switch Hitter Layouts
 
 ## About
-These are optional layouts set to test out keyboards that aren't supported directly by [EliteKeyboards](http://elitekeyboards.com/) [Switch Hitter](http://elitekeyboards.com/switchhitter.php) tool. I had to implement some workarounds, as EK's software is a bit finicky.
+These are optional layouts set to test out keyboards that aren't supported directly by [EliteKeyboards Switch Hitter](http://elitekeyboards.com/switchhitter.php) tool. I had to implement some workarounds, as EK's software is a bit finicky.
 Namely:
 
 - LCtrl inexplicably doesn't work on some layouts, but every other keys work fine. To remedy this, you can simply switch to a standard one and it seems to work fine. The Keyboard layouts affected are:
@@ -14,7 +14,7 @@ Namely:
 
 - Keys that are used on a hardware level (ie FN/PN, or any number of layer switching) do not send scancodes, that's just how they work. They are instead replaced with blank space.
 
-- Keys larger than 2 units in height are not allowed. This only affects the Model F XT, which uses a long num+.
+- Keys larger than 2 units in height are not allowed. This only affects the Model F XT, which uses a long num+. They implemented multi-height keys presumably only for ISO return keys.
 
 ## Setup
 1. Click "Clone or Download" and "Download Zip."
