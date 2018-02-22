@@ -57,7 +57,7 @@ R4, 0x34, ". >", ".", 1
 R4, 0x35, "/ ?", "/", 1
 R4, 0x36, "Shift", "RShift", 2.75
 
-R5,0x1D, "Ctrl", "LCtrl", 1.5
+R5, 0x1D, "Ctrl", "LCtrl", 1.25
 R5, 0xE05B, "Win", "LWin", 1.25
 R5, 0x38, "Alt", "LAlt", 1.25
 R5, 0x39, "Space", "Space", 6.25
