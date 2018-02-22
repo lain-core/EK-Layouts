@@ -1,10 +1,10 @@
 # EK Switch Hitter Layouts
 
 ## About
-These are optional layouts set to test out keyboards that aren't supported directly by [EliteKeyboards Switch Hitter](http://elitekeyboards.com/switchhitter.php) tool. I had to implement some workarounds, as EK's software is a bit finicky.
+These are optional layouts to test keyboards that aren't supported directly by [EliteKeyboards Switch Hitter](http://elitekeyboards.com/switchhitter.php) tool. I had to implement some workarounds, as EK's software is a bit finicky.
 Namely:
 
-- LCtrl inexplicably doesn't work on some layouts, but every other keys work fine. I presumed that this was because it wanted to be on Row 7, but some very brief testing seems to point to that not being the case. To remedy this, you can simply switch to a standard one and it seems to work fine. The Keyboard layouts affected are:
+- LCtrl inexplicably doesn't work on some layouts, but all other keys work fine. I presumed that this was because it wanted to be on Row 7, but some very brief testing seems to point to that not being the case. To remedy this, you can simply switch to a standard one and it seems to work fine. The Keyboard layouts affected are:
 	- IBM Model F AT (ANSI)
 	- IBM Model F AT (Stock)
 	- IBM Model F XT
