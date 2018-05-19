@@ -1,13 +1,17 @@
 # EK Switch Hitter Layouts
 
 ## About
+###Note: F122 (Stock) is not very well put together at this point in time, trying to nail down all the weird keycodes on it.
+
 These are optional layouts to test keyboards that aren't supported directly by [EliteKeyboards Switch Hitter](http://elitekeyboards.com/switchhitter.php) tool. I had to implement some workarounds, as EK's software is a bit finicky.
 Namely:
 
-- LCtrl inexplicably doesn't work on some layouts, but all other keys work fine. I presumed that this was because it wanted to be on Row 7, but some very brief testing seems to point to that not being the case. To remedy this, you can simply switch to a standard one and it seems to work fine. The Keyboard layouts affected are:
+- LCtrl inexplicably doesn't work on some layouts, but all other keys work fine. I presumed that this was because it wanted to be on Row 7, but some very brief testing seems to point to that not being the case. To remedy this, you can switch to a standard one and check there. The Keyboard layouts affected are:
 	- IBM Model F AT (ANSI)
 	- IBM Model F AT (Stock)
 	- IBM Model F XT
+	- IBM Model F 122 (ANSI)
+	- IBM Model F 122 (Stock)
 	- Leopold FC660M/C
 	- PFU Happy Hacking Keyboard Professional 2 (HHKB)
 	- Planck 40% (Default)
