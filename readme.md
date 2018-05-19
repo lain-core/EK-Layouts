@@ -1,7 +1,7 @@
 # EK Switch Hitter Layouts
 
 ## About
-###Note: F122 (Stock) is not very well put together at this point in time, trying to nail down all the weird keycodes on it.
+### Note: F122 (Stock) is not very well put together at this point in time, trying to nail down all the weird keycodes on it.
 
 These are optional layouts to test keyboards that aren't supported directly by [EliteKeyboards Switch Hitter](http://elitekeyboards.com/switchhitter.php) tool. I had to implement some workarounds, as EK's software is a bit finicky.
 Namely:
