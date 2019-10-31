@@ -1,3 +1,4 @@
+# As of 10/31/2019, EliteKeyboards.com has been shut down and their software is no longer available. As such, this repo will be archived.
 # EK Switch Hitter Layouts
 
 ## About
